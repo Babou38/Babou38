@@ -37,7 +37,7 @@ I've spent the last two years building everything from a custom C library to a f
 
 ## 📫 Contact
 
-- 📧 Email: baptistechapuis38@gmail.fr
+- 📧 Email: baptistechapuis38@gmail.com
 - 📍 Grenoble, France
 
 ---
