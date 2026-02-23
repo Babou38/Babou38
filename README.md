@@ -33,7 +33,7 @@ I've spent the last two years building everything from a custom C library to a f
 | [**push_swap**](https://github.com/Babou38/push_swap) | Stack sorting algorithm with cost-based optimization | C |
 | [**so_long**](https://github.com/Babou38/so_long) | 2D tile-based game with sprite rendering | C, MiniLibX |
 | [**pipex**](https://github.com/Babou38/pipex) | UNIX pipe reproduction — fork, dup2, execve | C |
-| [**cpp_modules**](https://github.com/Babou38/cpp_modules) | C++ piscine (00–09) — OOP, templates, STL, exceptions | C++98 |
+| [**cpp_modules**](https://github.com/Babou38/cpp00) | C++ piscine (00–09) — OOP, templates, STL, exceptions | C++98 |
 
 ## 📫 Contact
 
