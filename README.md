@@ -20,6 +20,12 @@ I've spent the last two years building everything from a custom C library to a f
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+## 🧪 Personal Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**DCA_Intelligent**](https://github.com/Babou38/DCA_Intelligent) | Smart crypto DCA bot — dynamic weekly buys driven by a combined RSI + Fear & Greed signal, Core-Satellite allocation, 4-year backtest and French tax logging (PMP, form 2086) | Python, NumPy, Pandas, Binance API |
+
 ## 🚀 42 Projects
 
 | Project | Description | Tech |
