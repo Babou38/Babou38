@@ -1,8 +1,8 @@
 # Hey, I'm Baptiste 👋
 
-Former student from **42 Lyon**, passionate about systems programming, game development, and full-stack web applications. Currently looking for an **apprenticeship** in software engineering.
+Trained at 42 Lyon, with a focus on systems programming and full-stack web applications. I've spent the last two years building everything from a custom C library to a full-stack multiplayer web app — all from scratch, no frameworks for the core logic.
 
-I've spent the last two years building everything from a custom C library to a full-stack multiplayer web app — all from scratch, no frameworks for the core logic.
+**Currently open to full-time software engineering roles — Grenoble or remote.**
 
 ## 🛠️ Tech Stack
 
