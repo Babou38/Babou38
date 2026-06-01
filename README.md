@@ -35,7 +35,7 @@ Trained at 42 Lyon, with a focus on systems programming and full-stack web appli
 | [**inception**](https://github.com/Babou38/inception) | Docker infrastructure — NGINX, WordPress, MariaDB | Docker Compose |
 | [**cub3D**](https://github.com/Babou38/cub3D) | 3D maze raycaster inspired by Wolfenstein 3D | C, MiniLibX |
 | [**minishell**](https://github.com/Babou38/minishell) | Bash-like shell — pipes, redirections, heredoc, built-ins | C |
-| [**philosophers**](https://github.com/Babou38/philosophers) | Dining philosophers — multithreading with mutexes | C, pthreads |
+| [**philosophers**](https://github.com/Babou38/philosopher) | Dining philosophers — multithreading with mutexes | C, pthreads |
 | [**push_swap**](https://github.com/Babou38/push_swap) | Stack sorting algorithm with cost-based optimization | C |
 | [**so_long**](https://github.com/Babou38/so_long) | 2D tile-based game with sprite rendering | C, MiniLibX |
 | [**pipex**](https://github.com/Babou38/pipex) | UNIX pipe reproduction — fork, dup2, execve | C |
